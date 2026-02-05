@@ -1,7 +1,5 @@
 # 💫 About Me:
-I am an AI researcher working on machine learning systems, with a focus on computer vision, security, and real-world deployment. Most of my work involves image and video data collected from real devices, where data quality varies and edge cases are common.
-
-In my research, I build complete ML pipelines rather than standalone models. This includes dataset collection and organization, preprocessing and quality checks, model training and evaluation, and detailed failure analysis. I have worked on classification, detection, and segmentation models, and I spend significant time optimizing inference speed, memory usage, and stability so models can run on limited hardware.
+I am an AI researcher working on machine learning systems, with a focus on computer vision, security, and real-world deployment. Most of my work involves image and video data collected from real devices, where data quality varies and edge cases are common. In my research, I build complete ML pipelines rather than standalone models. This includes dataset collection and organization, preprocessing and quality checks, model training and evaluation, and detailed failure analysis. I have worked on classification, detection, and segmentation models, and I spend significant time optimizing inference speed, memory usage, and stability so models can run on limited hardware.
 
 I also work on maintaining trained models over time, including updating models when data needs to be corrected or removed and validating that behavior remains stable after updates. Alongside vision work, I build applied ML systems such as document processing pipelines, recommendation models, and LLM-based tools, with an emphasis on clear code, reproducible experiments, and deployable systems.
 
