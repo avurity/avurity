@@ -17,9 +17,6 @@ I also worked on maintaining trained models over time. This involved updating mo
 ![](https://nirzak-streak-stats.vercel.app/?user=avurity&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avurity&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=avurity&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Awesom Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
