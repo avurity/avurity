@@ -5,9 +5,9 @@ I also worked on maintaining trained models over time. This involved updating mo
 
 
 ## 🌐 Checkout:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avurity@gmu.edu)
-[![Google Scholar](https://scholar.google.com/citations?user=5d7v7_QAAAAJ&hl=en&authuser=4)
-[![Website](https://avurity.onmason.com/)
+[![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:avurity@gmu.edu)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=5d7v7_QAAAAJ&hl=en&authuser=4)
+[![Website](https://img.shields.io/badge/Website-000000?logo=githubpages&logoColor=white)](https://avurity.onmason.com/)
 
 
 # 💻 Tech Stack:
