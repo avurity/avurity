@@ -23,17 +23,11 @@ I also work on maintaining trained models over time, including updating models w
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
----
-
 ### 🤖 LLMs & NLP
 ![RAG](https://img.shields.io/badge/RAG-Pipelines-blue?style=for-the-badge)
 ![LoRA](https://img.shields.io/badge/LoRA-Fine--Tuning-green?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-Vector-orange?style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/mlflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
----
-
 ### 🚀 Systems & Deployment
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
@@ -41,29 +35,20 @@ I also work on maintaining trained models over time, including updating models w
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=green)
 ![GPU](https://img.shields.io/badge/GPU-Clusters-darkgreen?style=for-the-badge)
-
----
-
 ### 🗄️ Data & Storage
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-
----
-
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-0047B3?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-
 ## 📌 What You’ll Find Here
 - Research code for computer vision and security experiments  
 - End-to-end ML pipelines with preprocessing, training, and evaluation  
 - Applied ML systems built for real data and deployment constraints  
 - Reproducible experiments with clear documentation
-- 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=avurity&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=avurity&theme=radical&hide_border=false)<br/>
